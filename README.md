@@ -1,4 +1,4 @@
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikesh-khichadiya-45611917a/" target="blank">
+<a href="https://nikesh-khichadiya.web.app/" target="blank">
 <img src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?q=80&amp;w=2070&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 100%; height: 300px; object-fit: cover;">
 </a>
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikesh-khichadiya-45611917a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikesh-khichadiya-45611917a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikesh-khichadiya-45611917a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikesh-khichadiya-45611917a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
