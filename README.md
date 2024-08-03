@@ -1,6 +1,7 @@
-<p align="center">
-    <img src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Background Image" style="width: 100%; height: 400px; object-fit: cover;">
-</p>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikesh-khichadiya-45611917a/" target="blank">
+<img src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?q=80&amp;w=2070&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 100%; height: 300px; object-fit: cover;">
+</a>
+
 
 <h1 align="center">Hi 👋, I'm Nikesh Khichadiya</h1>
 <h3 align="center">A passionate full-stack developer based in Canada</h3>
@@ -9,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikeshkhichadiya&label=Profile%20views&color=0e75b6&style=flat" alt="nikeshkhichadiya" /> </p>
 
-- 👨‍💻 All of my projects are available at [nikesh-khichadiya.web.app](nikesh-khichadiya.web.app)
+- 👨‍💻 All of my projects are available at [https://nikesh-khichadiya.web.app/](https://nikesh-khichadiya.web.app/)
 
 - 💬 Ask me about **React, Angular, Node.js, Express, jQuery, Redux, Ngrx, Rxjs, Flask, Fast API**
 
